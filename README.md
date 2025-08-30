@@ -2,6 +2,7 @@
 
 A powerful, modern web-based contact management application that allows you to import, edit, and export VCF (vCard) contact files directly in your browser. No server required, no data uploaded to the cloud - everything happens locally on your device.
 
+![](https://raw.githubusercontent.com/xsukax/xsukax-VCF-Contacts-Manager/refs/heads/main/ScreenShot.jpg)
 
 ## 🌟 Features
 
