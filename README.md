@@ -46,7 +46,7 @@ A powerful, modern web-based contact management application that allows you to i
 ```bash
 git clone https://github.com/xsukax/xsukax-VCF-Contacts-Manager.git
 cd xsukax-VCF-Contacts-Manager
-# Open xsukax-VCF-Contacts-Manager.html in your browser
+# Open index.html in your browser
 ```
 
 ## 💻 How to Use
